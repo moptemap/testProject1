@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="toggleDevice:war">
+    <output-path>$PROJECT_DIR$/toggleDevice/target</output-path>
+    <root id="archive" name="toggleDevice.war">
+      <element id="artifact" artifact-name="toggleDevice:war exploded" />
+    </root>
+  </artifact>
+</component>
